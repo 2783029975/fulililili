@@ -1,0 +1,11 @@
+{
+  "name": "dol-bjx-ex-main",
+  "version": "1.0.0",
+  "description": "---\r ![Static Badge](https://img.shields.io/badge/Author-Vrelnir-purple?link=https%3A%2F%2Fvrelnir.blogspot.com%2F)\r ![GitHub release (with filter)](https://img.shields.io/github/v/release/Eltirosto/Degrees-of-Lewdity-Chinese-Localization?link=https%3A%2F%2Fgithub.com%2FEltirosto%2FDegrees-of-Lewdity-Chinese-Localization%2Freleases%2Flatest)\r ![GitHub all releases](https://img.shields.io/github/downloads/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/total?link=https%3A%2F%2Fgithub.com%2FEltirosto%2FDegrees-of-Lewdity-Chinese-Localization%2Freleases%2Flatest)\r ![GitHub Repo stars](https://img.shields.io/github/stars/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)\r ![GitHub issues](https://img.shields.io/github/issues-raw/Eltirosto/Degrees-of-Lewdity-Chinese-Localization)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
